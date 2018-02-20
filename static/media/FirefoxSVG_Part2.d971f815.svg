@@ -1,0 +1,54 @@
+
+<svg width="895px" height="301px" viewBox="0 0 895 301" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio='xMinYMin'>
+    <style type="text/css" >
+      <![CDATA[
+        @keyframes animateGradRight {
+            0% {
+                stop-color: #D73664;
+            }
+            50% {
+                stop-color: #9E1080;
+            }
+            100% {
+                stop-color: #D73664;
+            }
+        }
+        @keyframes animateGradLeft {
+            0% {
+                stop-color: #9E1080;
+            }
+            50% {
+                stop-color: #D73664;
+            }
+            100% {
+                stop-color: #9E1080;
+            }
+        }
+        stop.gradStopRight {
+           animation: animateGradRight 5s linear infinite;
+        }
+        stop.gradStopLeft {
+           animation: animateGradLeft 5s linear infinite;
+        }
+
+      ]]>
+    </style>
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="50%" x2="56.7011141%" y2="50%" id="linearGradient-1">
+        <stop offset="60%" stop-color="#D73664" class="gradStopLeft" />
+        <stop offset="100%" class="gradStopRight" />
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-size="160">
+        <g id="Artboard-11" transform="translate(-11.000000, -39.000000)">
+            <text id="RightIndem-Copy-2" fill="url(#linearGradient-1)" font-family="AvenirNext-Bold, Avenir Next" font-weight="bold">
+                <tspan x="0" y="160">RightIndem</tspan>
+            </text>
+            <text id="Design-Copy-2" fill="url(#linearGradient-1)" font-family="AvenirNext-UltraLight, Avenir Next" font-weight="200">
+                <tspan x="252" y="300">Design</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
