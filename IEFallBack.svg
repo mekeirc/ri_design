@@ -1,0 +1,15 @@
+<svg width="50" height="50" viewBox="0 0 50 50" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <g> 
+        <linearGradient x1="0%" y1="50%" x2="50%" y2="52.936%" id="a">
+          <stop stop-color="#FF618E" offset="99.99%" />
+          <stop stop-color="#FFDFE8" offset="100%" />
+        </linearGradient>
+      </g>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+      <circle class="spingrad" fill="url(#a)" cx="25" cy="25" r="25" x="0" y="0">
+        </circle>
+      <circle fill="#fff" cx="25" cy="25" r="20"/>
+    </g>
+  </svg>
